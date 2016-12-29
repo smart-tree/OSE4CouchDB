@@ -1,3 +1,5 @@
+# "ported to OpenShift 3 in restricted mode by Julien von Siebenthal <jsiebenthal@smart-tree.ch>
+#
 # "ported" by Adam Miller <maxamillion@fedoraproject.org> from
 #   https://github.com/fedora-cloud/Fedora-Dockerfiles
 #
@@ -5,7 +7,7 @@
 #   scollier <scollier@redhat.com>
 
 FROM centos:centos7
-MAINTAINER The CentOS Project <cloud-ops@centos.org>
+MAINTAINER Julien von Siebenthal <jsiebenthal@smart-tree.ch> 
 
 USER root
 
