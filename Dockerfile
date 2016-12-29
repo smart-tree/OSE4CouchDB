@@ -1,4 +1,4 @@
-# "ported to OpenShift 3 in restricted mode by Julien von Siebenthal <jsiebenthal@smart-tree.ch>
+# "ported" to OpenShift 3 in restricted mode by Julien von Siebenthal <jsiebenthal@smart-tree.ch>
 #
 # "ported" by Adam Miller <maxamillion@fedoraproject.org> from
 #   https://github.com/fedora-cloud/Fedora-Dockerfiles
