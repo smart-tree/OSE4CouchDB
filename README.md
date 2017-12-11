@@ -1,4 +1,4 @@
-#CouchDB for Openshift 3
+# CouchDB for Openshift 3
 
 
 CentOS 7 dockerfile for couchdb adapted to Openshift 3, run in non-root (restricted) mode
